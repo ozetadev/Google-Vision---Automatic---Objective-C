@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "imagepicker-objc/ImagePickerViewController.m"
+            timestampString = "500768331.53759"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "-analyzeResults:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ImagePickerViewController analyzeResults:]_block_invoke"
+                  moduleName = "imagepicker-objc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philip/Downloads/cloud-vision-master/ios/Objective-C/imagepicker-objc/ImagePickerViewController.m"
+                  timestampString = "500768336.719742"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "4196">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ImagePickerViewController analyzeResults:]_block_invoke"
+                  moduleName = "imagepicker-objc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philip/Downloads/cloud-vision-master/ios/Objective-C/imagepicker-objc/ImagePickerViewController.m"
+                  timestampString = "500768336.721336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "4228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "imagepicker-objc/ImagePickerViewController.m"
+            timestampString = "500768336.119506"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "-analyzeResults:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ImagePickerViewController analyzeResults:]_block_invoke"
+                  moduleName = "imagepicker-objc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philip/Downloads/cloud-vision-master/ios/Objective-C/imagepicker-objc/ImagePickerViewController.m"
+                  timestampString = "500768336.726612"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "4328">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ImagePickerViewController analyzeResults:]_block_invoke"
+                  moduleName = "imagepicker-objc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philip/Downloads/cloud-vision-master/ios/Objective-C/imagepicker-objc/ImagePickerViewController.m"
+                  timestampString = "500768336.72795"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "4440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
